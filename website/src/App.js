@@ -17,7 +17,7 @@ class App extends Component {
     this.state = {
       resumeData: {},
       labels: {},
-
+      foo:'bar',
       data_loading:false,
       labels_loading:false,
     };
@@ -82,7 +82,6 @@ class App extends Component {
   render() {
     
     if (this.state.labels_loading & this.state.data_loading){
-      console.log('a', this.state)
       return (
         <div className="App">
           <Header data={this.state.resumeData.main} LanguageHandle={this.LanguageHandle} labels={this.state.labels.header} />

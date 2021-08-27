@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Carlos Antonio Díaz Flórez",
-    "image": "profilepic.png",
+    "image": "perfil.jpeg",
     "phone": "3143307798",
     "email": "cadiz0909@hotmail.com",
     "address": {
@@ -66,21 +66,21 @@
         "degree": "Especialización en Ingeniería del Software",
         "graduated": "Abril 2021",
         "description": "Profundizar los conocimientos en desarrollo de software y las nuevas tendencias tecnológicas",
-        "certificate": ""
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/73a4e0a663a09b8d31038632c46debb970f83a39/certificates/Diploma%20Especializacion.pdf"
       },
       {
         "school": "Universidad Industrial de Santander",
         "degree": "Ingenieria de Sistemas",
         "graduated": "Diciembre 2017",
         "description": "Trabajando y estudiando con compañeros y amigos. Liderando un grupo estudiantil realizando eventos académicos como recreacionales que ayudaron a fortalecer el trabajo en equipo y conocimientos. Hice parte de un grupo de desarrollo de software donde me desarrollé profesionalmente realizando trabajos de análisis, desarrollo e implementación de software.",
-        "certificate": ""
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/73a4e0a663a09b8d31038632c46debb970f83a39/certificates/DiplomaProfesional.pdf"
       },
       {
         "school": "Colegio Técnico Industrial Jóse Elias Puyana",
         "degree": "Bachiller",
         "graduated": "Diciembre 2008",
         "description": "Además de cursar el bachillerato, realice un curso de auxiliar de topografía por medio de un convenio con el SENA ",
-        "certificate": ""
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/73a4e0a663a09b8d31038632c46debb970f83a39/certificates/Diploma%20Bachiller.pdf"
       }
     ],
     "courses": [

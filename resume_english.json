@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Carlos Antonio Díaz Flórez",
-    "image": "profilepic.png",
+    "image": "perfil.jpeg",
     "phone": "3143307798",
     "email": "cadiz0909@hotmail.com",
     "address": {
@@ -66,21 +66,21 @@
         "degree": "Specialization in Software Engineering",
         "graduated": "April 2021",
         "description": "Deepen knowledge in software development and new technological trends",
-        "certificate": ""
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/73a4e0a663a09b8d31038632c46debb970f83a39/certificates/Diploma%20Especializacion.pdf"
       },
       {
         "school": "Universidad Industrial de Santander",
         "degree": "Systems Engineering",
         "graduated": "December 2017",
         "description": "Working and studying with classmates and friends. Leading a student group holding academic and recreational events that helped strengthen teamwork and knowledge. I was part of a software development group where I developed professionally doing analysis work , development and implementation of software. ",
-        "certificate": ""
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/73a4e0a663a09b8d31038632c46debb970f83a39/certificates/DiplomaProfesional.pdf"
       },
       {
         "school": "Colegio Técnico Industrial Jóse Elias Puyana",
         "degree": "Bachelor",
         "graduated": "December 2008",
         "description": "In addition to studying for the baccalaureate, take a topography assistant course through an agreement with SENA",
-        "certificate": ""
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/73a4e0a663a09b8d31038632c46debb970f83a39/certificates/Diploma%20Bachiller.pdf"
       }
     ],
     "courses": [

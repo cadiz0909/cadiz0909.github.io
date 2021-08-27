@@ -25,17 +25,17 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>{this.props.labels.me}</h2>
 
-            <p>{bio}</p>
+            <p className="white-text">{bio}</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>{this.props.labels.contact_details}</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
+						   <span className="white-text">{name}</span><br />
+						   <span className="white-text">{street}<br />
 						         {city} {state}, {zip}
                    </span><br />
-                     <span>{phone}</span><br />
-                     <span>{email}</span>
+                     <span className="white-text">{phone}</span><br />
+                     <span className="white-text">{email}</span>
 						   
                      
 					   </p>
