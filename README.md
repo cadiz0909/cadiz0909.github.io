@@ -1,6 +1,6 @@
 # Curriculum vitae
 
-Curriculum disponible en el sitio [web](https://daielchom.github.io/) y elaborado usando [react-resume-template](https://github.com/tbakerx/react-resume-template), una plantilla de react para el Curriculum.
+Curriculum disponible en el sitio [web](https://cadiz0909.github.io/) y elaborado usando [react-resume-template](https://github.com/tbakerx/react-resume-template), una plantilla de react para el Curriculum.
 
 #### Dependencias
 Se requiere de node y npm
@@ -12,15 +12,15 @@ Se requiere de node y npm
 #### Instalación
 Para instalar el repositorio.
 
-    $ git clone https://github.com/DaielChom/daielchom.github.io.git
-    $ cd daielchom.github.io/website
+    $ git clone https://github.com/Cadiz0909/cadiz0909.github.io.git
+    $ cd cadiz0909.github.io/website
     $ npm install
     $ npm install react react-dom --save
 
 #### Edición
 Si se desean realizar cambios en la plantilla
 
-    $ cd daielchom.github.io
+    $ cd cadiz0909.github.io
     $ rm -rf ./css ./images ./js ./static *.json favicon.ico index.html *.js
     $ cd website
     $ npm start
@@ -31,7 +31,7 @@ Si se desean realizar cambios en la plantilla
     $ cp -r build/* ../
     $ rm -rf build/
 
-  Se generará el proyecto en un nuevo directorio `build`. Copiar el contenido de dicho directorio en el directorio `daielchom.github.io` para que Github tome el archivo index y lo monte en la pagina `.io`
+  Se generará el proyecto en un nuevo directorio `build`. Copiar el contenido de dicho directorio en el directorio `cadiz0909.github.io` para que Github tome el archivo index y lo monte en la pagina `.io`
 
   ### Icons
   The icons font used is [fontawesome](https://fontawesome.com/v4.7/icons/)
