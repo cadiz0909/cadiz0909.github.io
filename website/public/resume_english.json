@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Carlos Antonio Díaz Flórez",
+    "image": "profilepic.png",
+    "phone": "3143307798",
+    "email": "cadiz0909@hotmail.com",
+    "address": {
+      "street": "Calle 34 sur 71F-20 Torre2 Apto 501",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "zip": ""
+    },
+    "occupation": "Backend Developer",
+    "description": "I have worked as a Full Stack developer, but I have focused on the backend using Java as the main language. I also use SQL, JavaScript and Python which I handle to a lesser degree. The projects I have been in charge have been carried out for companies such as ITAU, Nestle, Colpensiones and Seguros del Estado. I currently work for Farmatodo as a collaborator in the Backend part, providing services for three Frontends. ",
+    "bio": "My professional career has focused on software development, with preference to the backend part. I like to be in constant learning and take on new challenges. I am from the city of Bucaramanga, there I grew up and did my undergraduate degree. looking for new opportunities I settled in Bogotá where I developed my work and continued my studies. In my free time I like to do sports, whether it be walking or cycling routes ",
+    "website": "http://www.cadiaz0909.github.io",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "telegram",
+        "url": "https://www.telegram.me/cadiaz09",
+        "className": "fa fa-telegram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/cadiz0909",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/carlos-diaz-343214122/",
+        "className": "fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume": {
+    "work": [
+      {
+        "company": "Farmatodo",
+        "title": "Backend Developer",
+        "years": "March 2021 - Present",
+        "description": "Work on a Backend composed of different projects developed in Spring Framework, python and node Js, as well as management of relational and non-relational databases which provide services to a web page and two apps."
+      },
+      {
+        "company": "Millenium BPO",
+        "title": "Developer",
+        "years": "February 2018 - March 2021",
+        "description": "Initially I carried out RPA developments optimizing the processes of different clients, then I carried out improvement tasks in a framework for BPM which is made on GWT, Hibernate and JPA, the tasks consisted of new functionalities and support of the existing ones. "
+      },
+      {
+        "company": "Grupo Calumet - Universidad Industrial de Santander",
+        "title": "Full Stack Developer",
+        "years": "March 2016 - December 2017",
+        "description": "In the Calumet group I carry out work to design, develop and implement web applications and computer solutions in order to help and facilitate the university schools to publish their information, in addition to being a communication and teaching space"
+      },
+      {
+        "company": "Systems Engineering School - Industrial University of Santander",
+        "title": "Administrative Assistant",
+        "years": "October 2016 - December 2017",
+        "description": "In charge of managing the computer rooms of the School of Systems Engineering of the Industrial University of Santander."
+      }
+    ],
+    "education": [
+      {
+        "school": "Universida Distrital Francisco José de Caldas",
+        "degree": "Specialization in Software Engineering",
+        "graduated": "April 2021",
+        "description": "Deepen knowledge in software development and new technological trends",
+        "certificate": ""
+      },
+      {
+        "school": "Universidad Industrial de Santander",
+        "degree": "Systems Engineering",
+        "graduated": "December 2017",
+        "description": "Working and studying with classmates and friends. Leading a student group holding academic and recreational events that helped strengthen teamwork and knowledge. I was part of a software development group where I developed professionally doing analysis work , development and implementation of software. ",
+        "certificate": ""
+      },
+      {
+        "school": "Colegio Técnico Industrial Jóse Elias Puyana",
+        "degree": "Bachelor",
+        "graduated": "December 2008",
+        "description": "In addition to studying for the baccalaureate, take a topography assistant course through an agreement with SENA",
+        "certificate": ""
+      }
+    ],
+    "courses": [
+      {
+        "school": "Cisco Networking Academy",
+        "degree": "Course on Networks, Levels I and II",
+        "graduated": "February 2016",
+        "description": "Virtual course offered by Cisco where the basic principles of routing and switching were studied, courses developed in the networking class of the Industrial University of Santander, directed by Professor Pedro Trujillo.",
+        "certificate": ""
+      }
+    ],
+    "volunteer": [
+      {
+        "company": "Center for Systems Engineering Studies - CEIS-UIS",
+        "title": "Leader",
+        "years": "March 2016 - February 2017",
+        "description": "In charge of managing and directing colleagues from the Systems Engineering study center at the Universidad Industrial de Santander."
+      }
+    ],
+    "certificates": [
+
+    ],
+    "skillmessage": "The skills and tools that I use are the following.",
+    "skills": [
+      {
+        "name": "Backend Development: JAVA, SQL, Hibernate, JPA, Spring",
+        "level": "80%"
+      },
+      {
+        "name": "Automation: Selenium, Sikuli, AutoHotkey",
+        "level": "70%"
+      },
+      {
+        "name": "Frontend development: HTML, JS, CSS, JQuery, GWT",
+        "level": "50%"
+      },
+      {
+        "name": "Version control: Git, Subversion",
+        "level": "70%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "name": "Liz Mariana Alarcon Marcelo",
+        "type": "Personal",
+        "description": "Friend",
+        "phone": "3202106400",
+        "email": "anamari456@gmail.com"
+      },
+      {
+        "name": "Alexy Yessenia Rincón Capera",
+        "type": "Personal",
+        "description": "Friend University",
+        "phone": "3183977933",
+        "email": "alexyr93@gmail.com"
+      }
+    ]
+  }
+}
