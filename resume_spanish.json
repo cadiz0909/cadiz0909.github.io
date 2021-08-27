@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Carlos Antonio Díaz Flórez",
+    "image": "profilepic.png",
+    "phone": "3143307798",
+    "email": "cadiz0909@hotmail.com",
+    "address": {
+      "street": "Calle 34 sur 71F-20 Torre2 Apto 501",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "zip": ""
+    },
+    "occupation": "Desarrollador Backend",
+    "description": "He trabajado como desarrollador Full Stack, pero me he enfocado al backend utilizando Java como lenguaje principal. También uso SQL, JavaScript y Python los cuales manejo en menor grado. Los proyectos que he tenido a cargo se han realizado para empresas como ITAU, Nestle, Colpensiones y  Seguros del Estado. Actualmente trabajo para Farmatodo como colaborador en la parte del Backend, brindando servicios para tres Frontends.",
+    "bio": "Mi carrera profesional se ha enfocado al desarrollo de software, con preferencia a la parte del backend. Me gusta estar en constante aprendizaje y asumir nuevos retos. Soy de la ciudad de Bucaramanga, allí crecí y realicé mi pregrado.En busca de nuevas oportunidades me establecí en Bogotá donde me desarrolle laboralmente y continué mis estudios. En mis tiempos libres me gusta hacer deporte, ya sea caminar o rutas en bicicleta",
+    "website": "http://www.cadiaz0909.github.io",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "telegram",
+        "url": "https://www.telegram.me/cadiaz09",
+        "className": "fa fa-telegram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/cadiz0909",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/carlos-diaz-343214122/",
+        "className": "fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume": {
+    "work": [
+      {
+        "company": "Farmatodo",
+        "title": "Desarrollador Backend",
+        "years": "Marzo 2021 - Actualidad",
+        "description": "Trabajo sobre un Backend compuesto por diferentes proyectos desarrollados en Spring Framework, python y node Js, así como manejo de bases de datos relacionales y no relacionales los cuales brindan servicios a una página web y dos apps."
+      },
+      {
+        "company": "Millenium BPO",
+        "title": "Desarrollador",
+        "years": "Febrero 2018 - Marzo 2021",
+        "description": "Inicialmente realice desarrollos de RPA optimizando los procesos de diferentes clientes, luego realice tareas de mejora en un framework para BPM el cual está hecho sobre GWT, Hibernate y JPA, las tareas consistían en nuevas funcionalidades y soporte de las existentes."
+      },
+      {
+        "company": "Grupo Calumet - Universidad Industrial de Santander",
+        "title": "Desarrollador Full Stack",
+        "years": "Marzo 2016 - Diciembre 2017",
+        "description": "En el grupo Calumet realice labores de diseñar, desarrollar e implementar aplicaciones web y soluciones informáticas con el fin de ayudar y facilitar a las escuelas de la universidad a publicar su información, además de ser un espacio de comunicación y enseñanza"
+      },
+      {
+        "company": "Escuela Ingenieria de Sistemas - Universidad Industrial de Santander",
+        "title": "Auxiliar Administrativo",
+        "years": "Octubre 2016 - Diciembre 2017",
+        "description": "Encargado de administrar las salas de cómputo de la escuela de Ingeniería de Sistemas de la Universidad Industrial de Santander."
+      }
+    ],
+    "education": [
+      {
+        "school": "Universidad Distrital Francisco José de Caldas",
+        "degree": "Especialización en Ingeniería del Software",
+        "graduated": "Abril 2021",
+        "description": "Profundizar los conocimientos en desarrollo de software y las nuevas tendencias tecnológicas",
+        "certificate": ""
+      },
+      {
+        "school": "Universidad Industrial de Santander",
+        "degree": "Ingenieria de Sistemas",
+        "graduated": "Diciembre 2017",
+        "description": "Trabajando y estudiando con compañeros y amigos. Liderando un grupo estudiantil realizando eventos académicos como recreacionales que ayudaron a fortalecer el trabajo en equipo y conocimientos. Hice parte de un grupo de desarrollo de software donde me desarrollé profesionalmente realizando trabajos de análisis, desarrollo e implementación de software.",
+        "certificate": ""
+      },
+      {
+        "school": "Colegio Técnico Industrial Jóse Elias Puyana",
+        "degree": "Bachiller",
+        "graduated": "Diciembre 2008",
+        "description": "Además de cursar el bachillerato, realice un curso de auxiliar de topografía por medio de un convenio con el SENA ",
+        "certificate": ""
+      }
+    ],
+    "courses": [
+      {
+        "school": "Cisco Networking Academy",
+        "degree": "Curso de Redes, Niveles I y II",
+        "graduated": "Febrero 2016",
+        "description": "Curso virtual ofrecido por Cisco donde se estudiaron los principios básicos de routing y switching, cursos elaborados en la clase de redes de la Universidad Industrial de Santander, dirigidas por el profesor Pedro Trujillo.",
+        "certificate": ""
+      }
+    ],
+    "volunteer": [
+      {
+        "company": "Centro de Estudios de Ingeniería de Sistemas - CEIS-UIS",
+        "title": "Lider",
+        "years": "Marzo 2016 - Febrero 2017",
+        "description": "Encargado de administrar y dirigir a compañeros del centro de estudios de Ing. de Sistemas de la Universidad Industrial de Santander."
+      }
+    ],
+    "certificates":[
+
+    ],
+    "skillmessage": "Las Habilidades y herramientas que manejo son las siguientes.",
+    "skills": [
+      {
+        "name": "Desarrollo Backend: JAVA, SQL, Hibernate, JPA, Spring",
+        "level": "80%"
+      },
+      {
+        "name": "Automatización: Selenium, Sikuli, AutoHotkey ",
+        "level": "70%"
+      },
+      {
+        "name": "Desarrollo Frontend: HTML, JS, CSS, JQuery,GWT ",
+        "level": "50%"
+      },
+      {
+        "name": "Control de versiones: Git, Subversion",
+        "level": "70%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "name":"Liz Mariana Alarcon Marcelo",
+        "type":"Personal",
+        "description":"Amiga",
+        "phone":"3202106400",
+        "email":"anamari456@gmail.com"
+      },
+      {
+        "name":"Alexy Yessenia Rincón Capera",
+        "type":"Personal",
+        "description":"Amiga Universidad",
+        "phone":"3183977933",
+        "email":"alexyr93@gmail.com"
+      }
+    ]
+  }
+}
