@@ -14,7 +14,7 @@
     "description": "He trabajado como desarrollador Full Stack, pero me he enfocado al backend utilizando Java como lenguaje principal. También uso SQL, JavaScript y Python los cuales manejo en menor grado. Los proyectos que he tenido a cargo se han realizado para empresas como ITAU, Nestle, Colpensiones y  Seguros del Estado. Actualmente trabajo para Farmatodo como colaborador en la parte del Backend, brindando servicios para tres Frontends.",
     "bio": "Mi carrera profesional se ha enfocado al desarrollo de software, con preferencia a la parte del backend. Me gusta estar en constante aprendizaje y asumir nuevos retos. Soy de la ciudad de Bucaramanga, allí crecí y realicé mi pregrado.En busca de nuevas oportunidades me establecí en Bogotá donde me desarrolle laboralmente y continué mis estudios. En mis tiempos libres me gusta hacer deporte, ya sea caminar o rutas en bicicleta",
     "website": "http://www.cadiaz0909.github.io",
-    "resumedownload": "",
+    "resumedownload": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/master/resume/HV%20Carlos%20Diaz%20Espan%CC%83ol.pdf",
     "social": [
       {
         "name": "telegram",
@@ -54,7 +54,7 @@
         "description": "En el grupo Calumet realice labores de diseñar, desarrollar e implementar aplicaciones web y soluciones informáticas con el fin de ayudar y facilitar a las escuelas de la universidad a publicar su información, además de ser un espacio de comunicación y enseñanza"
       },
       {
-        "company": "Escuela Ingenieria de Sistemas - Universidad Industrial de Santander",
+        "company": "Escuela Ingeniería de Sistemas - Universidad Industrial de Santander",
         "title": "Auxiliar Administrativo",
         "years": "Octubre 2016 - Diciembre 2017",
         "description": "Encargado de administrar las salas de cómputo de la escuela de Ingeniería de Sistemas de la Universidad Industrial de Santander."
@@ -70,7 +70,7 @@
       },
       {
         "school": "Universidad Industrial de Santander",
-        "degree": "Ingenieria de Sistemas",
+        "degree": "Ingeniería de Sistemas",
         "graduated": "Diciembre 2017",
         "description": "Trabajando y estudiando con compañeros y amigos. Liderando un grupo estudiantil realizando eventos académicos como recreacionales que ayudaron a fortalecer el trabajo en equipo y conocimientos. Hice parte de un grupo de desarrollo de software donde me desarrollé profesionalmente realizando trabajos de análisis, desarrollo e implementación de software.",
         "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/73a4e0a663a09b8d31038632c46debb970f83a39/certificates/DiplomaProfesional.pdf"

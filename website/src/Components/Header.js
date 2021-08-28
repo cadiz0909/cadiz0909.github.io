@@ -23,12 +23,11 @@ class Header extends Component {
 
                <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
-
+               <select className='language-selector minimal' onChange={this.props.LanguageHandle}>
+                  <option value='spanish'>Español</option>
+                  <option value='english'>English</option>
+               </select>
                <ul id="nav" className="nav">
-                  <select className='language-selector minimal' onChange={this.props.LanguageHandle}>
-                     <option value='spanish'>Español</option>
-                     <option value='english'>English</option>
-                  </select>
 
                   <li className="current"><a className="smoothscroll" href="#home">{this.props.labels.home}</a></li>
                   <li><a className="smoothscroll" href="#about">{this.props.labels.about}</a></li>

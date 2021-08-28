@@ -14,7 +14,7 @@
     "description": "I have worked as a Full Stack developer, but I have focused on the backend using Java as the main language. I also use SQL, JavaScript and Python which I handle to a lesser degree. The projects I have been in charge have been carried out for companies such as ITAU, Nestle, Colpensiones and Seguros del Estado. I currently work for Farmatodo as a collaborator in the Backend part, providing services for three Frontends. ",
     "bio": "My professional career has focused on software development, with preference to the backend part. I like to be in constant learning and take on new challenges. I am from the city of Bucaramanga, there I grew up and did my undergraduate degree. looking for new opportunities I settled in Bogotá where I developed my work and continued my studies. In my free time I like to do sports, whether it be walking or cycling routes ",
     "website": "http://www.cadiaz0909.github.io",
-    "resumedownload": "",
+    "resumedownload": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/master/resume/HV%20Carlos%20Diaz%20English.pdf",
     "social": [
       {
         "name": "telegram",
@@ -54,7 +54,7 @@
         "description": "In the Calumet group I carry out work to design, develop and implement web applications and computer solutions in order to help and facilitate the university schools to publish their information, in addition to being a communication and teaching space"
       },
       {
-        "company": "Systems Engineering School - Industrial University of Santander",
+        "company": "Universidad Industrial de Santander",
         "title": "Administrative Assistant",
         "years": "October 2016 - December 2017",
         "description": "In charge of managing the computer rooms of the School of Systems Engineering of the Industrial University of Santander."
@@ -94,7 +94,7 @@
     ],
     "volunteer": [
       {
-        "company": "Center for Systems Engineering Studies - CEIS-UIS",
+        "company": "Centro Estudios de Ingenería de Sistemas - CEIS-UIS",
         "title": "Leader",
         "years": "March 2016 - February 2017",
         "description": "In charge of managing and directing colleagues from the Systems Engineering study center at the Universidad Industrial de Santander."
