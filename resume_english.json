@@ -85,6 +85,13 @@
     ],
     "courses": [
       {
+        "school": "Kaggle",
+        "degree": "Python course",
+        "graduated": "August 2021",
+        "description": "This course covers the key Python skills needed to start using Python for data science.",
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/master/certificates/Carlos%20Antonio%20Diaz%20Florez%20-%20Python.png"
+      },
+      {
         "school": "Cisco Networking Academy",
         "degree": "Course on Networks, Levels I and II",
         "graduated": "February 2016",

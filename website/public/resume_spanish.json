@@ -85,6 +85,13 @@
     ],
     "courses": [
       {
+        "school": "Kaggle",
+        "degree": "Curso Python",
+        "graduated": "Agosto 2021",
+        "description": "Este curso cubre las habilidades clave de Python que se necesitan para comenzar a usar Python para la ciencia de datos.",
+        "certificate": "https://raw.githubusercontent.com/cadiz0909/cadiz0909.github.io/master/certificates/Carlos%20Antonio%20Diaz%20Florez%20-%20Python.png"
+      },
+      {
         "school": "Cisco Networking Academy",
         "degree": "Curso de Redes, Niveles I y II",
         "graduated": "Febrero 2016",
